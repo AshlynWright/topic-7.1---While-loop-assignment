@@ -9,24 +9,24 @@
 
             //Assignment 1
 
-            //int number1;
-            //int number2;
-            //int number3;
-            //int number4;
+            int number1;
+            int number2;
+            int number3;
+            int number4;
 
-            //Console.WriteLine("please enter the first number");
-            //number1 = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("please enter the second number");
-            //number2 = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("please enter the third number");
-            //number3 = Convert.ToInt32(Console.ReadLine());
-            //Console.WriteLine("please enter the fourth number");
-            //number4 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("please enter the first number");
+            number1 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("please enter the second number");
+            number2 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("please enter the third number");
+            number3 = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("please enter the fourth number");
+            number4 = Convert.ToInt32(Console.ReadLine());
 
-            //int sum = number1 + number2 + number3 + number4;
-            //double average = sum / 4.0;
+            int sum = number1 + number2 + number3 + number4;
+            double average = sum / 4.0;
 
-            //Console.WriteLine("the average of your numbers is " + average + "");
+            Console.WriteLine("the average of your numbers is " + average + "");
 
 
 
